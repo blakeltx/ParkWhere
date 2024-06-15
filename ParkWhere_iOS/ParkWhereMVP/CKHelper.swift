@@ -7,7 +7,6 @@
 
 import CloudKit
 import os
-import ArcGIS
 
 // MARK: Crowdsourcing Models
 struct OccupancyReport: Hashable {
