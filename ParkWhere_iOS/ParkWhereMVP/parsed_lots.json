@@ -1,0 +1,2539 @@
+[
+    {
+        "title": "Lot 094",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6168142683715,
+            "longitude": -96.3539405499411
+        },
+        "total_slots": 14,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 079",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6154684985585,
+            "longitude": -96.3526191451395
+        },
+        "total_slots": 25,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 080",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6159560814202,
+            "longitude": -96.3537610579521
+        },
+        "total_slots": 49,
+        "ev_slots": 0,
+        "visitor_slots": 1,
+        "address": null
+    },
+    {
+        "title": "Lot 066",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6101640397442,
+            "longitude": -96.347003205733
+        },
+        "total_slots": 57,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 092",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6218702488281,
+            "longitude": -96.3585755873789
+        },
+        "total_slots": 10,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 090",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6279372672611,
+            "longitude": -96.3427773084919
+        },
+        "total_slots": 79,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 021",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6140977012089,
+            "longitude": -96.3391871978777
+        },
+        "total_slots": 35,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 064",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6144003176693,
+            "longitude": -96.3482690387292
+        },
+        "total_slots": 90,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 034",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6115358232273,
+            "longitude": -96.3356141426567
+        },
+        "total_slots": 10,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Southside Garage",
+        "type": "garage",
+        "location": {
+            "latitude": 30.6136823509253,
+            "longitude": -96.3336326833679
+        },
+        "total_slots": 1964,
+        "ev_slots": 4,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 082",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6182119487066,
+            "longitude": -96.3544892136132
+        },
+        "total_slots": 58,
+        "ev_slots": 0,
+        "visitor_slots": 1,
+        "address": null
+    },
+    {
+        "title": "Lot 040b",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6123928948742,
+            "longitude": -96.3325340165645
+        },
+        "total_slots": 533,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 020",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6148238044222,
+            "longitude": -96.3443307478768
+        },
+        "total_slots": 90,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 083",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6187710472877,
+            "longitude": -96.3549907584595
+        },
+        "total_slots": 54,
+        "ev_slots": 0,
+        "visitor_slots": 1,
+        "address": null
+    },
+    {
+        "title": "Hensel Park",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6278757927774,
+            "longitude": -96.3454217577563
+        },
+        "total_slots": 64,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 011",
+        "type": "lot",
+        "location": {
+            "latitude": 30.617548921419,
+            "longitude": -96.343506313296
+        },
+        "total_slots": 15,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 073",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6110955875572,
+            "longitude": -96.3524115795468
+        },
+        "total_slots": 169,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 078",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6159513261166,
+            "longitude": -96.3523159192385
+        },
+        "total_slots": 34,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 085",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6197533226987,
+            "longitude": -96.3555291401832
+        },
+        "total_slots": 263,
+        "ev_slots": 0,
+        "visitor_slots": 7,
+        "address": null
+    },
+    {
+        "title": "Lot 093",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6151274065213,
+            "longitude": -96.3516760332748
+        },
+        "total_slots": 22,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 120",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6180200670053,
+            "longitude": -96.3217588386158
+        },
+        "total_slots": 74,
+        "ev_slots": 0,
+        "visitor_slots": 2,
+        "address": null
+    },
+    {
+        "title": "Lot 100g",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6051914011501,
+            "longitude": -96.3447586523449
+        },
+        "total_slots": 332,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 100f",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6044699985419,
+            "longitude": -96.3458771031187
+        },
+        "total_slots": 295,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 100e",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6040906379614,
+            "longitude": -96.3470801710537
+        },
+        "total_slots": 653,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Reed Arena LZ",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6053318362218,
+            "longitude": -96.3469821694164
+        },
+        "total_slots": 52,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 100b",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6064333030028,
+            "longitude": -96.3476471784274
+        },
+        "total_slots": 304,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 100a",
+        "type": "lot",
+        "location": {
+            "latitude": 30.607184577674,
+            "longitude": -96.3466080792438
+        },
+        "total_slots": 328,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 086",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6078300943617,
+            "longitude": -96.3506097361416
+        },
+        "total_slots": 42,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 112",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6053358067838,
+            "longitude": -96.3563234496874
+        },
+        "total_slots": 49,
+        "ev_slots": 0,
+        "visitor_slots": 5,
+        "address": null
+    },
+    {
+        "title": "Lot 119",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6048471745059,
+            "longitude": -96.3557931457446
+        },
+        "total_slots": 36,
+        "ev_slots": 0,
+        "visitor_slots": 3,
+        "address": null
+    },
+    {
+        "title": "Lot 102",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6065234770856,
+            "longitude": -96.3452457443233
+        },
+        "total_slots": 118,
+        "ev_slots": 0,
+        "visitor_slots": 18,
+        "address": null
+    },
+    {
+        "title": "Lot 100c",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6055271833211,
+            "longitude": -96.3483559887769
+        },
+        "total_slots": 629,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 107",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6060344559662,
+            "longitude": -96.3573136284111
+        },
+        "total_slots": 102,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 110",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6031789734908,
+            "longitude": -96.3540387461867
+        },
+        "total_slots": 201,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 109",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6019060220848,
+            "longitude": -96.3590866339764
+        },
+        "total_slots": 188,
+        "ev_slots": 0,
+        "visitor_slots": 10,
+        "address": null
+    },
+    {
+        "title": "Lot 118",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6003039233317,
+            "longitude": -96.358974047417
+        },
+        "total_slots": 275,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 043",
+        "type": "lot",
+        "location": {
+            "latitude": 30.5965791217462,
+            "longitude": -96.3557489174481
+        },
+        "total_slots": 345,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 041",
+        "type": "lot",
+        "location": {
+            "latitude": 30.59653420689,
+            "longitude": -96.3548431837733
+        },
+        "total_slots": 260,
+        "ev_slots": 1,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 036c",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6143988716318,
+            "longitude": -96.3542438657225
+        },
+        "total_slots": 78,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 036e",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6149301221397,
+            "longitude": -96.3550542498342
+        },
+        "total_slots": 57,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 081",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6175008003505,
+            "longitude": -96.3538731033127
+        },
+        "total_slots": 22,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 087",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6174772607022,
+            "longitude": -96.3549971598866
+        },
+        "total_slots": 69,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Central Campus Garage",
+        "garageCode": "2106",
+        "type": "garage",
+        "location": {
+            "latitude": 30.6164816146297,
+            "longitude": -96.3377280429544
+        },
+        "total_slots": 588,
+        "ev_slots": 4,
+        "visitor_slots": 204,
+        "address": null
+    },
+    {
+        "title": "Lot 035",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6161676232218,
+            "longitude": -96.3365019280288
+        },
+        "total_slots": 20,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 040d",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6109110605293,
+            "longitude": -96.3339065870484
+        },
+        "total_slots": 282,
+        "ev_slots": 0,
+        "visitor_slots": 4,
+        "address": null
+    },
+    {
+        "title": "Lot 040c",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6112370690154,
+            "longitude": -96.3330307926034
+        },
+        "total_slots": 238,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 089",
+        "type": "lot",
+        "location": {
+            "latitude": 30.626415607228,
+            "longitude": -96.3445439860919
+        },
+        "total_slots": 60,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 101",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6085793020473,
+            "longitude": -96.358001779549
+        },
+        "total_slots": 160,
+        "ev_slots": 0,
+        "visitor_slots": 16,
+        "address": null
+    },
+    {
+        "title": "Lot 070",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6128915433133,
+            "longitude": -96.348298215755
+        },
+        "total_slots": 53,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 022",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6151129929376,
+            "longitude": -96.3389847542206
+        },
+        "total_slots": 100,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 005",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6200974185543,
+            "longitude": -96.3416315847758
+        },
+        "total_slots": 59,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Northside Garage",
+        "type": "garage",
+        "location": {
+            "latitude": 30.6191538202561,
+            "longitude": -96.3434492266757
+        },
+        "total_slots": 1837,
+        "ev_slots": 4,
+        "visitor_slots": 170,
+        "address": null
+    },
+    {
+        "title": "West Campus Garage",
+        "garageCode": "2007",
+        "type": "garage",
+        "location": {
+            "latitude": 30.6084566732842,
+            "longitude": -96.3444251054241
+        },
+        "total_slots": 3690,
+        "ev_slots": 4,
+        "visitor_slots": 465,
+        "address": null
+    },
+    {
+        "title": "University Center Garage",
+        "garageCode": "2001",
+        "type": "garage",
+        "location": {
+            "latitude": 30.6120489526429,
+            "longitude": -96.338734244624
+        },
+        "total_slots": 1488,
+        "ev_slots": 4,
+        "visitor_slots": 474,
+        "address": null
+    },
+    {
+        "title": "Lot 008",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6118893716812,
+            "longitude": -96.3339089053626
+        },
+        "total_slots": 52,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 026",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6114044196756,
+            "longitude": -96.3359359107193
+        },
+        "total_slots": 50,
+        "ev_slots": 0,
+        "visitor_slots": 9,
+        "address": null
+    },
+    {
+        "title": "Lot 117",
+        "type": "lot",
+        "location": {
+            "latitude": 30.5985539861537,
+            "longitude": -96.3599737799512
+        },
+        "total_slots": 12,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 001",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6370195077376,
+            "longitude": -96.3272103927155
+        },
+        "total_slots": 414,
+        "ev_slots": 0,
+        "visitor_slots": 18,
+        "address": null
+    },
+    {
+        "title": "Lot 076",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6170891645188,
+            "longitude": -96.3527682553412
+        },
+        "total_slots": 91,
+        "ev_slots": 0,
+        "visitor_slots": 6,
+        "address": null
+    },
+    {
+        "title": "Lot 007",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6187864646248,
+            "longitude": -96.341124723147
+        },
+        "total_slots": 77,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 108",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6051227960297,
+            "longitude": -96.3582120081053
+        },
+        "total_slots": 282,
+        "ev_slots": 0,
+        "visitor_slots": 3,
+        "address": null
+    },
+    {
+        "title": "Lot 006",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6156206106518,
+            "longitude": -96.3381831507257
+        },
+        "total_slots": 97,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 014",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6198268992627,
+            "longitude": -96.3392787190547
+        },
+        "total_slots": 26,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 036a",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6143352878591,
+            "longitude": -96.3521342376218
+        },
+        "total_slots": 428,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 036b",
+        "type": "lot",
+        "location": {
+            "latitude": 30.613540240087,
+            "longitude": -96.3530990174678
+        },
+        "total_slots": 141,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 036d",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6152713130488,
+            "longitude": -96.3536988440877
+        },
+        "total_slots": 28,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 061",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6097183075481,
+            "longitude": -96.3455016860422
+        },
+        "total_slots": 873,
+        "ev_slots": 0,
+        "visitor_slots": 31,
+        "address": null
+    },
+    {
+        "title": "Lot 068",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6118059699903,
+            "longitude": -96.3485075338659
+        },
+        "total_slots": 61,
+        "ev_slots": 0,
+        "visitor_slots": 2,
+        "address": null
+    },
+    {
+        "title": "Lot 072b",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6125520879787,
+            "longitude": -96.3509981747535
+        },
+        "total_slots": 194,
+        "ev_slots": 0,
+        "visitor_slots": 194,
+        "address": null
+    },
+    {
+        "title": "Lot 072a",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6115661160454,
+            "longitude": -96.3510242376204
+        },
+        "total_slots": 174,
+        "ev_slots": 0,
+        "visitor_slots": 163,
+        "address": null
+    },
+    {
+        "title": "Lot 075",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6129711006415,
+            "longitude": -96.3540442499785
+        },
+        "total_slots": 76,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 088",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6221952532671,
+            "longitude": -96.356531832328
+        },
+        "total_slots": 803,
+        "ev_slots": 0,
+        "visitor_slots": 17,
+        "address": null
+    },
+    {
+        "title": "McKenzie Airport",
+        "type": "lot",
+        "location": {
+            "latitude": 30.5942497625025,
+            "longitude": -96.3672513303098
+        },
+        "total_slots": 537,
+        "ev_slots": 0,
+        "visitor_slots": 404,
+        "address": null
+    },
+    {
+        "title": "OTC",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6022769141591,
+            "longitude": -96.3552835065189
+        },
+        "total_slots": 47,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 111",
+        "type": "lot",
+        "location": {
+            "latitude": 30.5984343232054,
+            "longitude": -96.3525207850433
+        },
+        "total_slots": 294,
+        "ev_slots": 0,
+        "visitor_slots": 6,
+        "address": null
+    },
+    {
+        "title": "Lot 113",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6013303827379,
+            "longitude": -96.3542091729088
+        },
+        "total_slots": 462,
+        "ev_slots": 0,
+        "visitor_slots": 8,
+        "address": null
+    },
+    {
+        "title": "Lot 115",
+        "type": "lot",
+        "location": {
+            "latitude": 30.602519855425,
+            "longitude": -96.3470618580225
+        },
+        "total_slots": 34,
+        "ev_slots": 0,
+        "visitor_slots": 2,
+        "address": null
+    },
+    {
+        "title": "Lot 100d",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6021320947531,
+            "longitude": -96.3483249546338
+        },
+        "total_slots": 381,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Spence St North",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6207709247938,
+            "longitude": -96.3409080215644
+        },
+        "total_slots": 53,
+        "ev_slots": 0,
+        "visitor_slots": 3,
+        "address": null
+    },
+    {
+        "title": "Moore Ave",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6270298283265,
+            "longitude": -96.3406903255329
+        },
+        "total_slots": 34,
+        "ev_slots": 0,
+        "visitor_slots": 5,
+        "address": null
+    },
+    {
+        "title": "Lot 042",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6138665299543,
+            "longitude": -96.3447176922611
+        },
+        "total_slots": 37,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 074",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6088775280078,
+            "longitude": -96.3479092679253
+        },
+        "total_slots": 771,
+        "ev_slots": 0,
+        "visitor_slots": 42,
+        "address": null
+    },
+    {
+        "title": "Lot 012",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6117711970231,
+            "longitude": -96.3538842083694
+        },
+        "total_slots": 53,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Companion Animal Care",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6094549273749,
+            "longitude": -96.356360114668
+        },
+        "total_slots": 9,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 004",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6179212639476,
+            "longitude": -96.3425857923885
+        },
+        "total_slots": 145,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 096",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6063047252867,
+            "longitude": -96.3496365822932
+        },
+        "total_slots": 48,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Ireland St",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6187457651339,
+            "longitude": -96.3419791255026
+        },
+        "total_slots": 43,
+        "ev_slots": 0,
+        "visitor_slots": 5,
+        "address": null
+    },
+    {
+        "title": "HSC 2",
+        "type": "lot",
+        "location": {
+            "latitude": 30.5972232823626,
+            "longitude": -96.3939241652991
+        },
+        "total_slots": 408,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "HSC 3",
+        "type": "lot",
+        "location": {
+            "latitude": 30.5989356683905,
+            "longitude": -96.3969381989805
+        },
+        "total_slots": 683,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Post Office Lot",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6178595387541,
+            "longitude": -96.345372934886
+        },
+        "total_slots": 25,
+        "ev_slots": 0,
+        "visitor_slots": 25,
+        "address": null
+    },
+    {
+        "title": "Spence St Central",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6170011276013,
+            "longitude": -96.3372906297839
+        },
+        "total_slots": 11,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 059",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6083795546,
+            "longitude": -96.3379427134294
+        },
+        "total_slots": 18,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 123",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6085158242662,
+            "longitude": -96.3603683036594
+        },
+        "total_slots": 156,
+        "ev_slots": 0,
+        "visitor_slots": 4,
+        "address": null
+    },
+    {
+        "title": "Lot 010a",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6166866454592,
+            "longitude": -96.3420287155963
+        },
+        "total_slots": 49,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 010b",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6165494206806,
+            "longitude": -96.3424914367789
+        },
+        "total_slots": 28,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 037",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6151218794735,
+            "longitude": -96.3508305057522
+        },
+        "total_slots": 99,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 095a",
+        "type": "lot",
+        "location": {
+            "latitude": 30.604067379825,
+            "longitude": -96.3498180355469
+        },
+        "total_slots": 94,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 033",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6149809108833,
+            "longitude": -96.3581706746278
+        },
+        "total_slots": 8,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Challenge Course",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6155943136042,
+            "longitude": -96.3795613268262
+        },
+        "total_slots": 69,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 063",
+        "type": "lot",
+        "location": {
+            "latitude": 30.5995899096349,
+            "longitude": -96.34356777634
+        },
+        "total_slots": 187,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 032",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6165199276226,
+            "longitude": -96.3444319044217
+        },
+        "total_slots": 87,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 030e",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6134780155189,
+            "longitude": -96.3456574768698
+        },
+        "total_slots": 131,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 030a",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6172958612283,
+            "longitude": -96.3459195510475
+        },
+        "total_slots": 136,
+        "ev_slots": 0,
+        "visitor_slots": 11,
+        "address": null
+    },
+    {
+        "title": "Lot 030d",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6139553960601,
+            "longitude": -96.346260573267
+        },
+        "total_slots": 164,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 003",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6157526324677,
+            "longitude": -96.3512626154119
+        },
+        "total_slots": 8,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 071",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6157111332287,
+            "longitude": -96.3518829113715
+        },
+        "total_slots": 82,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 099b",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6277770340088,
+            "longitude": -96.3417514941843
+        },
+        "total_slots": 210,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 099a",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6264691286949,
+            "longitude": -96.3422626806872
+        },
+        "total_slots": 286,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 126",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6158334821374,
+            "longitude": -96.3675316654571
+        },
+        "total_slots": 414,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Golf Lot",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6165789441535,
+            "longitude": -96.3344276727755
+        },
+        "total_slots": 141,
+        "ev_slots": 0,
+        "visitor_slots": 34,
+        "address": null
+    },
+    {
+        "title": "Lot 049",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6156170766086,
+            "longitude": -96.3498912651609
+        },
+        "total_slots": 178,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 067",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6124376568194,
+            "longitude": -96.3474285474882
+        },
+        "total_slots": 265,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 044",
+        "type": "lot",
+        "location": {
+            "latitude": 30.60911116422,
+            "longitude": -96.3619842712355
+        },
+        "total_slots": 29,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 023",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6179288928956,
+            "longitude": -96.3392871179744
+        },
+        "total_slots": 167,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 015",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6175923936143,
+            "longitude": -96.3363138272637
+        },
+        "total_slots": 186,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 055",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6179660917712,
+            "longitude": -96.3354606768944
+        },
+        "total_slots": 218,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 025",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6101916616586,
+            "longitude": -96.3574446568451
+        },
+        "total_slots": 38,
+        "ev_slots": 0,
+        "visitor_slots": 1,
+        "address": null
+    },
+    {
+        "title": "Lot 013",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6112785503839,
+            "longitude": -96.3558762609089
+        },
+        "total_slots": 98,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Large Animal Clinic",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6125009794953,
+            "longitude": -96.3554585334799
+        },
+        "total_slots": 14,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 030c",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6154163448955,
+            "longitude": -96.347059791481
+        },
+        "total_slots": 603,
+        "ev_slots": 0,
+        "visitor_slots": 37,
+        "address": null
+    },
+    {
+        "title": "Lot 048",
+        "type": "lot",
+        "location": {
+            "latitude": 30.609167987788,
+            "longitude": -96.3383187389819
+        },
+        "total_slots": 232,
+        "ev_slots": 0,
+        "visitor_slots": 7,
+        "address": null
+    },
+    {
+        "title": "Traditions Golf House",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6010641820523,
+            "longitude": -96.3863592883285
+        },
+        "total_slots": 21,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 124",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6218173187514,
+            "longitude": -96.3600295240597
+        },
+        "total_slots": 45,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 062",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6089484920133,
+            "longitude": -96.3418190040418
+        },
+        "total_slots": 351,
+        "ev_slots": 0,
+        "visitor_slots": 7,
+        "address": null
+    },
+    {
+        "title": "Lot 122a",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6084681722801,
+            "longitude": -96.3549068533409
+        },
+        "total_slots": 433,
+        "ev_slots": 0,
+        "visitor_slots": 25,
+        "address": null
+    },
+    {
+        "title": "Lot 122c",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6069638588574,
+            "longitude": -96.3566885520648
+        },
+        "total_slots": 19,
+        "ev_slots": 0,
+        "visitor_slots": 6,
+        "address": null
+    },
+    {
+        "title": "Lot 091",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6218413560091,
+            "longitude": -96.3614746599976
+        },
+        "total_slots": 25,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 033a",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6141252670017,
+            "longitude": -96.3561851094654
+        },
+        "total_slots": 6,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 122b",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6082316590001,
+            "longitude": -96.3529415299234
+        },
+        "total_slots": 447,
+        "ev_slots": 0,
+        "visitor_slots": 19,
+        "address": null
+    },
+    {
+        "title": "Lot 122d",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6071676285284,
+            "longitude": -96.3542626644285
+        },
+        "total_slots": 20,
+        "ev_slots": 0,
+        "visitor_slots": 6,
+        "address": null
+    },
+    {
+        "title": "Lot 058",
+        "type": "lot",
+        "location": {
+            "latitude": 30.5969372203343,
+            "longitude": -96.3431874429928
+        },
+        "total_slots": 420,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 127",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6212192070996,
+            "longitude": -96.3586948685731
+        },
+        "total_slots": 10,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Engineering Research Bldg",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6016558553263,
+            "longitude": -96.3567885916915
+        },
+        "total_slots": 127,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 024",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6110475120481,
+            "longitude": -96.3582645034863
+        },
+        "total_slots": 330,
+        "ev_slots": 0,
+        "visitor_slots": 37,
+        "address": null
+    },
+    {
+        "title": "Lot 054",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6196343313969,
+            "longitude": -96.3371137846755
+        },
+        "total_slots": 295,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 060",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6061200108695,
+            "longitude": -96.338417546866
+        },
+        "total_slots": 174,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Hagler Center",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6069172002262,
+            "longitude": -96.3378113876941
+        },
+        "total_slots": 117,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Aggie RV",
+        "type": "lot",
+        "location": {
+            "latitude": 30.5984575660432,
+            "longitude": -96.3576324799832
+        },
+        "total_slots": 204,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Gene Stallings Blvd Garage",
+        "garageCode": "2227",
+        "type": "garage",
+        "location": {
+            "latitude": 30.6115251138997,
+            "longitude": -96.3434311814977
+        },
+        "total_slots": 1434,
+        "ev_slots": 4,
+        "visitor_slots": 460,
+        "address": null
+    },
+    {
+        "title": "Lot 095b",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6046602075007,
+            "longitude": -96.3509019220831
+        },
+        "total_slots": 17,
+        "ev_slots": 0,
+        "visitor_slots": 1,
+        "address": null
+    },
+    {
+        "title": "Lot 038",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6125895750216,
+            "longitude": -96.3524913102972
+        },
+        "total_slots": 156,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 100j",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6049988681453,
+            "longitude": -96.3417475402181
+        },
+        "total_slots": 722,
+        "ev_slots": 0,
+        "visitor_slots": 4,
+        "address": null
+    },
+    {
+        "title": "Lot 128",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6189313667434,
+            "longitude": -96.3651144130047
+        },
+        "total_slots": 13,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 074 Visitor",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6086978989938,
+            "longitude": -96.3481121594483
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 097 Visitor",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6067396049779,
+            "longitude": -96.3494328511503
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 061 Visitor",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6094600158688,
+            "longitude": -96.3447701329151
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 122a Visitor",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6079608858319,
+            "longitude": -96.3545741313992
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 122b Visitor",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6083455837498,
+            "longitude": -96.3534344071248
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Fan Field Parking",
+        "type": "lot",
+        "location": {
+            "latitude": 30.5999271698627,
+            "longitude": -96.35467059639
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 024 Visitor",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6108016434189,
+            "longitude": -96.3576277381888
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 030c Visitor",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6149626904291,
+            "longitude": -96.3463920864148
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 097",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6072260683612,
+            "longitude": -96.3486439732897
+        },
+        "total_slots": 492,
+        "ev_slots": 0,
+        "visitor_slots": 22,
+        "address": null
+    },
+    {
+        "title": "Lot 045",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6127754899617,
+            "longitude": -96.355697569907
+        },
+        "total_slots": 70,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Chemistry Loading",
+        "type": "lot",
+        "location": {
+            "latitude": 30.618179565369,
+            "longitude": -96.3399452791679
+        },
+        "total_slots": 6,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 018",
+        "type": "lot",
+        "location": {
+            "latitude": 30.610783582572,
+            "longitude": -96.3532799729047
+        },
+        "total_slots": 171,
+        "ev_slots": 0,
+        "visitor_slots": 3,
+        "address": null
+    },
+    {
+        "title": "Lot 098",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6098184652105,
+            "longitude": -96.3520298754279
+        },
+        "total_slots": 248,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 114",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6091583508294,
+            "longitude": -96.3538404948799
+        },
+        "total_slots": 254,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "W-X Row",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6282710996991,
+            "longitude": -96.3412293395198
+        },
+        "total_slots": 93,
+        "ev_slots": 0,
+        "visitor_slots": 5,
+        "address": null
+    },
+    {
+        "title": "Lot 027",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6159077294531,
+            "longitude": -96.3429774866085
+        },
+        "total_slots": 20,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 084",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6193261099357,
+            "longitude": -96.3543696831092
+        },
+        "total_slots": 100,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 125",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6226461574258,
+            "longitude": -96.359432711506
+        },
+        "total_slots": 37,
+        "ev_slots": 0,
+        "visitor_slots": 2,
+        "address": null
+    },
+    {
+        "title": "Lot 040a",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6127410366756,
+            "longitude": -96.3342458706384
+        },
+        "total_slots": 98,
+        "ev_slots": 0,
+        "visitor_slots": 13,
+        "address": null
+    },
+    {
+        "title": "Lot 050",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6241520557199,
+            "longitude": -96.3368683216914
+        },
+        "total_slots": 567,
+        "ev_slots": 0,
+        "visitor_slots": 8,
+        "address": null
+    },
+    {
+        "title": "Asbury St",
+        "type": "lot",
+        "location": {
+            "latitude": 30.617530434984,
+            "longitude": -96.3432563027543
+        },
+        "total_slots": 21,
+        "ev_slots": 0,
+        "visitor_slots": 4,
+        "address": null
+    },
+    {
+        "title": "Lot 1000",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6426467509293,
+            "longitude": -96.4662998759944
+        },
+        "total_slots": 1224,
+        "ev_slots": 2,
+        "visitor_slots": 2,
+        "address": null
+    },
+    {
+        "title": "Lot 100m",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6011243602145,
+            "longitude": -96.3454733602744
+        },
+        "total_slots": 248,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 7900",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6325738408621,
+            "longitude": -96.4712261404162
+        },
+        "total_slots": 117,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 8525",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6359040729023,
+            "longitude": -96.4680860895893
+        },
+        "total_slots": 23,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 7751",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6409827107064,
+            "longitude": -96.4696230936716
+        },
+        "total_slots": 230,
+        "ev_slots": 0,
+        "visitor_slots": 10,
+        "address": null
+    },
+    {
+        "title": "Lot 6502",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6447956407378,
+            "longitude": -96.4743387199924
+        },
+        "total_slots": 11,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 8031",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6342453789974,
+            "longitude": -96.4750232965042
+        },
+        "total_slots": 36,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 8081",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6398403480402,
+            "longitude": -96.4745893416085
+        },
+        "total_slots": 42,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 8685",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6326519718825,
+            "longitude": -96.4743747142616
+        },
+        "total_slots": 19,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 8004",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6423379609121,
+            "longitude": -96.4710154619518
+        },
+        "total_slots": 38,
+        "ev_slots": 0,
+        "visitor_slots": 31,
+        "address": null
+    },
+    {
+        "title": "RELLIS Utilities",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6410901600043,
+            "longitude": -96.4742650255995
+        },
+        "total_slots": 8,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 7007",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6395241441553,
+            "longitude": -96.4705478061553
+        },
+        "total_slots": 12,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Polo Rd Garage",
+        "garageCode": "2242",
+        "type": "garage",
+        "location": {
+            "latitude": 30.6235122369413,
+            "longitude": -96.338042786692
+        },
+        "total_slots": 1679,
+        "ev_slots": 6,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 019",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6145098072112,
+            "longitude": -96.3402807807879
+        },
+        "total_slots": 34,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 104",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6073293022401,
+            "longitude": -96.3442197749371
+        },
+        "total_slots": 207,
+        "ev_slots": 0,
+        "visitor_slots": 178,
+        "address": null
+    },
+    {
+        "title": "Lot 129",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6232478288713,
+            "longitude": -96.3653141233765
+        },
+        "total_slots": 55,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 1100",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6473192738262,
+            "longitude": -96.4731671128482
+        },
+        "total_slots": 756,
+        "ev_slots": 0,
+        "visitor_slots": 6,
+        "address": null
+    },
+    {
+        "title": "ECDC",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6299801479326,
+            "longitude": -96.3402307722277
+        },
+        "total_slots": 51,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 051",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6218397577965,
+            "longitude": -96.3369415059508
+        },
+        "total_slots": 598,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 047",
+        "type": "lot",
+        "location": {
+            "latitude": 30.621387981137,
+            "longitude": -96.3377848336898
+        },
+        "total_slots": 214,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 7185",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6349515658515,
+            "longitude": -96.4722021884942
+        },
+        "total_slots": 70,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 8700",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6408650410112,
+            "longitude": -96.4868023012247
+        },
+        "total_slots": 146,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 7901",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6330418073372,
+            "longitude": -96.4724895947701
+        },
+        "total_slots": 3,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 7096",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6417193232407,
+            "longitude": -96.4753514788494
+        },
+        "total_slots": 8,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 077",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6180875276725,
+            "longitude": -96.3561035858642
+        },
+        "total_slots": 210,
+        "ev_slots": 0,
+        "visitor_slots": 3,
+        "address": null
+    },
+    {
+        "title": "HSC 1",
+        "type": "lot",
+        "location": {
+            "latitude": 30.5980726904278,
+            "longitude": -96.3952510301113
+        },
+        "total_slots": 20,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Clayton Williams Cir",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6080572530867,
+            "longitude": -96.3367040953031
+        },
+        "total_slots": 8,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Mosher Ln",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6148921905698,
+            "longitude": -96.3353015101202
+        },
+        "total_slots": 20,
+        "ev_slots": 0,
+        "visitor_slots": 19,
+        "address": null
+    },
+    {
+        "title": "Lot 8520",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6474425150766,
+            "longitude": -96.4678829969426
+        },
+        "total_slots": 7,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Clayton Wms Alumni Ctr",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6091543540827,
+            "longitude": -96.3354611422094
+        },
+        "total_slots": 1,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Bonfire Memorial Cir",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6212456037322,
+            "longitude": -96.3361548635612
+        },
+        "total_slots": 14,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 130",
+        "type": "lot",
+        "location": {
+            "latitude": 30.623888515808,
+            "longitude": -96.3600419878852
+        },
+        "total_slots": 11,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "UCG Loading",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6119597070114,
+            "longitude": -96.3379800099185
+        },
+        "total_slots": 1,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Blinn-1",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6427619606302,
+            "longitude": -96.4696885631643
+        },
+        "total_slots": 244,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Blinn Cir",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6427779153076,
+            "longitude": -96.4679869779229
+        },
+        "total_slots": 6,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 8701",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6374016966594,
+            "longitude": -96.4685638736218
+        },
+        "total_slots": 59,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 8032",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6349947882263,
+            "longitude": -96.4750962192743
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 7046",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6371658892948,
+            "longitude": -96.475409744408
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 7090",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6438903652568,
+            "longitude": -96.4750897526979
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 7045",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6327795550335,
+            "longitude": -96.4752412645072
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 101 Visitor",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6087674751669,
+            "longitude": -96.3584119263252
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 7240",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6376794856599,
+            "longitude": -96.4724554610223
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 7064",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6384381335071,
+            "longitude": -96.4746493328312
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 6884",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6346568075755,
+            "longitude": -96.465790781324
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Lot 040a Visitor",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6124920110546,
+            "longitude": -96.3340378398305
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Golf Lot Visitor",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6168946780701,
+            "longitude": -96.334801773107
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    },
+    {
+        "title": "Brookshire Brothers",
+        "type": "lot",
+        "location": {
+            "latitude": 30.6006249300212,
+            "longitude": -96.3424952617464
+        },
+        "total_slots": 0,
+        "ev_slots": 0,
+        "visitor_slots": 0,
+        "address": null
+    }
+]

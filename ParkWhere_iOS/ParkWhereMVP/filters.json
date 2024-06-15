@@ -1,0 +1,45 @@
+[
+    {
+        "id": "0000",
+        "type": "radial",
+        "title": "All Lots",
+        "isChecked" : false,
+    },
+    {
+        "id": "0001",
+        "type": "radial",
+        "title": "Permit Compatible Lots Only",
+        "isChecked" : false,
+    },
+    {
+        "id": "0010",
+        "type": "lotType",
+        "title": "Both Surface Lots And Garages",
+        "isChecked" : true,
+    },
+    {
+        "id": "0011",
+        "type": "lotType",
+        "title": "Surface Lots",
+        "isChecked" : true,
+    },
+    {
+        "id": "0012",
+        "type" : "lotType",
+        "title": "Garages",
+        "isChecked" : true,
+    },
+    {
+        "id": "0100",
+        "type" : "lotSpecific",
+        "title": "Electric Vehicle",
+        "isChecked" : false,
+    },
+    {
+        "id": "0101",
+        "type": "lotSpecific",
+        "title": "Visitor (Paid) Parking",
+        "isChecked" : true,
+    },
+    
+]

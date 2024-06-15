@@ -1,0 +1,79 @@
+[
+    {
+        "id": "000",
+        "title": "Shared",
+        "includedLots": [
+            "Lot 001",
+            "Lot 033",
+            "Lot 043",
+            "Lot 049",
+            "Lot 058",
+            "Lot 063",
+            "Lot 071",
+            "Lot 088",
+            "Lot 091",
+            "Lot 100a",
+            "Lot 100b",
+            "Lot 100c",
+            "Lot 100d",
+            "Lot 100e",
+            "Lot 100f",
+            "Lot 100g",
+            "Lot 100m",
+            "Lot 100j",
+            "Lot 104",
+            "Lot 117",
+            "Lot 120",
+            "Lot 126",
+            "Lot 129",
+            "Polo Rd Garage",
+            "Southside Garage",
+            "Lot Challenge Course",
+            "Lot W-X Row"
+        ],
+        "isChecked" : true,
+    },
+    {
+        "id": "1000",
+        "title": "RELLIS",
+        "includedLots": [
+            "Lot 1000"
+        ],
+        "isChecked" : false,
+    },
+    {
+        "id": "001",
+        "title": "Ungated (Soil Testing Lab)",
+        "includedLots": [
+            "Lot 125"
+        ],
+        "isChecked" : false,
+    },
+    {
+        "id": "002",
+        "title": "Ungated (Small Animial Clinic)",
+        "includedLots": [
+            "Lot 012"
+        ],
+        "isChecked" : false,
+    },
+    {
+        "id": "003",
+        "title": "Numbered Spc (South Area Residence Halls)",
+        "includedLots": [
+            "Lot 040a",
+            "Lot 040b",
+            "Lot 040c",
+            "Lot 040d",
+        ],
+        "isChecked" : false,
+    },
+    {
+        "id": "004",
+        "title": "Ungated (South Zone Kyle Field",
+        "includedLots": [
+            "Lot 048"
+        ],
+        "isChecked" : false
+    }
+]

@@ -1,0 +1,524 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		25365D6D29DDD0AF00AA666E /* FilterManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25365D6C29DDD0AF00AA666E /* FilterManager.swift */; };
+		255DDE4329B5CF7E00602E4A /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255DDE4229B5CF7E00602E4A /* DataModel.swift */; };
+		25A0E5FB29E4727700E9516F /* parsed_lots.json in Resources */ = {isa = PBXBuildFile; fileRef = 25A0E5FA29E4727700E9516F /* parsed_lots.json */; };
+		25A0E5FD29E47BE000E9516F /* FilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A0E5FC29E47BE000E9516F /* FilterView.swift */; };
+		25A0E60129E485DD00E9516F /* FilterType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A0E60029E485DD00E9516F /* FilterType.swift */; };
+		25A0E60629EA29F000E9516F /* RadialButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A0E60529EA29F000E9516F /* RadialButton.swift */; };
+		25A0E60729EA2CE800E9516F /* filters.json in Resources */ = {isa = PBXBuildFile; fileRef = 25A0E60229E4892900E9516F /* filters.json */; };
+		25A68B0C29F04141005F45B5 /* special_events.json in Resources */ = {isa = PBXBuildFile; fileRef = 25A68B0B29F04141005F45B5 /* special_events.json */; };
+		25A68B0E29F041DD005F45B5 /* SpecialEventType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A68B0D29F041DD005F45B5 /* SpecialEventType.swift */; };
+		25DBB9F529DAF916002FC11A /* POISearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25DBB9F429DAF916002FC11A /* POISearch.swift */; };
+		25DDFDAD29AFB81500D2E9CE /* PermitType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25DDFDAC29AFB81500D2E9CE /* PermitType.swift */; };
+		25DDFDB029B5B4E200D2E9CE /* permits.json in Resources */ = {isa = PBXBuildFile; fileRef = 25DDFDAE29B5AD4C00D2E9CE /* permits.json */; };
+		25DDFDB229B5B59600D2E9CE /* AddPermits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25DDFDB129B5B59600D2E9CE /* AddPermits.swift */; };
+		25DDFDB429B5B76B00D2E9CE /* PermitRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25DDFDB329B5B76B00D2E9CE /* PermitRow.swift */; };
+		3D1B3F242943D54B002FF7F5 /* ParkWhereMVPApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1B3F232943D54B002FF7F5 /* ParkWhereMVPApp.swift */; };
+		3D1B3F262943D54B002FF7F5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1B3F252943D54B002FF7F5 /* ContentView.swift */; };
+		3D1B3F282943D54F002FF7F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D1B3F272943D54F002FF7F5 /* Assets.xcassets */; };
+		3D1B3F2C2943D54F002FF7F5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D1B3F2B2943D54F002FF7F5 /* Preview Assets.xcassets */; };
+		3D1B3F362943DF25002FF7F5 /* SlideOverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1B3F352943DF25002FF7F5 /* SlideOverView.swift */; };
+		3D1B3F3F29451FEA002FF7F5 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1B3F3E29451FEA002FF7F5 /* LocationManager.swift */; };
+		3D268E432947C98000EBD246 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D268E422947C98000EBD246 /* SearchBarView.swift */; };
+		3D268E462947E30300EBD246 /* LotType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D268E452947E30300EBD246 /* LotType.swift */; };
+		3D41D25029A3EED0002C0629 /* OccupancyBars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D41D24F29A3EED0002C0629 /* OccupancyBars.swift */; };
+		3D4D3BD52946473500482FBB /* ArcGIS in Frameworks */ = {isa = PBXBuildFile; productRef = 3D4D3BD42946473500482FBB /* ArcGIS */; };
+		3D5F357029467D2600F02CFD /* ArcGISMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5F356F29467D2600F02CFD /* ArcGISMap.swift */; };
+		3D61B66229E5A2BA000E4520 /* NavAppPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D61B66129E5A2BA000E4520 /* NavAppPickerView.swift */; };
+		3D8798B329EDC0B80089AB15 /* OccupancyReporting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8798B229EDC0B80089AB15 /* OccupancyReporting.swift */; };
+		3DAEF3E229F6F80B00BFFD1B /* CKHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DAEF3E129F6F80B00BFFD1B /* CKHelper.swift */; };
+		3DB408B229D20D5F001C0850 /* lots.json in Resources */ = {isa = PBXBuildFile; fileRef = 3DB408B129D20D5F001C0850 /* lots.json */; };
+		3DC8E1E12991781F00BC1DFC /* LotRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC8E1E02991781F00BC1DFC /* LotRow.swift */; };
+		3DF47AC429E46654004FC83D /* LotInfoPopover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF47AC329E46654004FC83D /* LotInfoPopover.swift */; };
+		521697F329E67B9E00E1EDFB /* HelpfulLinks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521697F229E67B9E00E1EDFB /* HelpfulLinks.swift */; };
+		5281143829B82B360019E1C0 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5281143729B82B360019E1C0 /* MenuView.swift */; };
+		5281143A29B82C000019E1C0 /* ManagePermitsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5281143929B82C000019E1C0 /* ManagePermitsView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		25365D6C29DDD0AF00AA666E /* FilterManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterManager.swift; sourceTree = "<group>"; };
+		255DDE4229B5CF7E00602E4A /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
+		25A0E5FA29E4727700E9516F /* parsed_lots.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = parsed_lots.json; sourceTree = "<group>"; };
+		25A0E5FC29E47BE000E9516F /* FilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterView.swift; sourceTree = "<group>"; };
+		25A0E60029E485DD00E9516F /* FilterType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterType.swift; sourceTree = "<group>"; };
+		25A0E60229E4892900E9516F /* filters.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = filters.json; sourceTree = "<group>"; };
+		25A0E60529EA29F000E9516F /* RadialButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadialButton.swift; sourceTree = "<group>"; };
+		25A68B0B29F04141005F45B5 /* special_events.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = special_events.json; sourceTree = "<group>"; };
+		25A68B0D29F041DD005F45B5 /* SpecialEventType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialEventType.swift; sourceTree = "<group>"; };
+		25DBB9F429DAF916002FC11A /* POISearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POISearch.swift; sourceTree = "<group>"; };
+		25DDFDAC29AFB81500D2E9CE /* PermitType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermitType.swift; sourceTree = "<group>"; };
+		25DDFDAE29B5AD4C00D2E9CE /* permits.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = permits.json; sourceTree = "<group>"; };
+		25DDFDB129B5B59600D2E9CE /* AddPermits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPermits.swift; sourceTree = "<group>"; };
+		25DDFDB329B5B76B00D2E9CE /* PermitRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermitRow.swift; sourceTree = "<group>"; };
+		3D1B3F202943D54B002FF7F5 /* ParkWhereMVP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParkWhereMVP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D1B3F232943D54B002FF7F5 /* ParkWhereMVPApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkWhereMVPApp.swift; sourceTree = "<group>"; };
+		3D1B3F252943D54B002FF7F5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3D1B3F272943D54F002FF7F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3D1B3F292943D54F002FF7F5 /* ParkWhereMVP.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ParkWhereMVP.entitlements; sourceTree = "<group>"; };
+		3D1B3F2B2943D54F002FF7F5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3D1B3F352943DF25002FF7F5 /* SlideOverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideOverView.swift; sourceTree = "<group>"; };
+		3D1B3F3E29451FEA002FF7F5 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		3D268E422947C98000EBD246 /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
+		3D268E442947E0ED00EBD246 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		3D268E452947E30300EBD246 /* LotType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LotType.swift; sourceTree = "<group>"; };
+		3D2D9680297869E500AB4943 /* Secrets.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Secrets.xcconfig; sourceTree = "<group>"; };
+		3D41D24F29A3EED0002C0629 /* OccupancyBars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OccupancyBars.swift; sourceTree = "<group>"; };
+		3D5F356F29467D2600F02CFD /* ArcGISMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArcGISMap.swift; sourceTree = "<group>"; };
+		3D61B66129E5A2BA000E4520 /* NavAppPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavAppPickerView.swift; sourceTree = "<group>"; };
+		3D8798B229EDC0B80089AB15 /* OccupancyReporting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OccupancyReporting.swift; sourceTree = "<group>"; };
+		3DAEF3E129F6F80B00BFFD1B /* CKHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CKHelper.swift; sourceTree = "<group>"; };
+		3DB408B129D20D5F001C0850 /* lots.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = lots.json; sourceTree = "<group>"; };
+		3DC8E1E02991781F00BC1DFC /* LotRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LotRow.swift; sourceTree = "<group>"; };
+		3DF47AC329E46654004FC83D /* LotInfoPopover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LotInfoPopover.swift; sourceTree = "<group>"; };
+		521697F229E67B9E00E1EDFB /* HelpfulLinks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpfulLinks.swift; sourceTree = "<group>"; };
+		5281143729B82B360019E1C0 /* MenuView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		5281143929B82C000019E1C0 /* ManagePermitsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ManagePermitsView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3D1B3F1D2943D54B002FF7F5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D4D3BD52946473500482FBB /* ArcGIS in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3D1B3F172943D54A002FF7F5 = {
+			isa = PBXGroup;
+			children = (
+				3D1B3F222943D54B002FF7F5 /* ParkWhereMVP */,
+				3D1B3F212943D54B002FF7F5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3D1B3F212943D54B002FF7F5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3D1B3F202943D54B002FF7F5 /* ParkWhereMVP.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3D1B3F222943D54B002FF7F5 /* ParkWhereMVP */ = {
+			isa = PBXGroup;
+			children = (
+				3D268E442947E0ED00EBD246 /* Info.plist */,
+				3D1B3F232943D54B002FF7F5 /* ParkWhereMVPApp.swift */,
+				3D1B3F252943D54B002FF7F5 /* ContentView.swift */,
+				521697F229E67B9E00E1EDFB /* HelpfulLinks.swift */,
+				3D1B3F3E29451FEA002FF7F5 /* LocationManager.swift */,
+				3D1B3F352943DF25002FF7F5 /* SlideOverView.swift */,
+				3D1B3F272943D54F002FF7F5 /* Assets.xcassets */,
+				3D1B3F292943D54F002FF7F5 /* ParkWhereMVP.entitlements */,
+				3D1B3F2A2943D54F002FF7F5 /* Preview Content */,
+				5281143729B82B360019E1C0 /* MenuView.swift */,
+				5281143929B82C000019E1C0 /* ManagePermitsView.swift */,
+				3D5F356F29467D2600F02CFD /* ArcGISMap.swift */,
+				3D268E422947C98000EBD246 /* SearchBarView.swift */,
+				255DDE4229B5CF7E00602E4A /* DataModel.swift */,
+				3D2D9680297869E500AB4943 /* Secrets.xcconfig */,
+				3D41D24F29A3EED0002C0629 /* OccupancyBars.swift */,
+				3D268E452947E30300EBD246 /* LotType.swift */,
+				3DC8E1E02991781F00BC1DFC /* LotRow.swift */,
+				3DF47AC329E46654004FC83D /* LotInfoPopover.swift */,
+				25A0E60529EA29F000E9516F /* RadialButton.swift */,
+				25DDFDAC29AFB81500D2E9CE /* PermitType.swift */,
+				25DDFDB329B5B76B00D2E9CE /* PermitRow.swift */,
+				25DDFDB129B5B59600D2E9CE /* AddPermits.swift */,
+				25A0E5FA29E4727700E9516F /* parsed_lots.json */,
+				3DB408B129D20D5F001C0850 /* lots.json */,
+				25DDFDAE29B5AD4C00D2E9CE /* permits.json */,
+				25A0E60229E4892900E9516F /* filters.json */,
+				25A68B0B29F04141005F45B5 /* special_events.json */,
+				25DBB9F429DAF916002FC11A /* POISearch.swift */,
+				25365D6C29DDD0AF00AA666E /* FilterManager.swift */,
+				3D61B66129E5A2BA000E4520 /* NavAppPickerView.swift */,
+				25A0E5FC29E47BE000E9516F /* FilterView.swift */,
+				25A0E60029E485DD00E9516F /* FilterType.swift */,
+				3D8798B229EDC0B80089AB15 /* OccupancyReporting.swift */,
+				25A68B0D29F041DD005F45B5 /* SpecialEventType.swift */,
+				3DAEF3E129F6F80B00BFFD1B /* CKHelper.swift */,
+			);
+			path = ParkWhereMVP;
+			sourceTree = "<group>";
+		};
+		3D1B3F2A2943D54F002FF7F5 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				3D1B3F2B2943D54F002FF7F5 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3D1B3F1F2943D54B002FF7F5 /* ParkWhereMVP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D1B3F2F2943D54F002FF7F5 /* Build configuration list for PBXNativeTarget "ParkWhereMVP" */;
+			buildPhases = (
+				3D1B3F1C2943D54B002FF7F5 /* Sources */,
+				3D1B3F1D2943D54B002FF7F5 /* Frameworks */,
+				3D1B3F1E2943D54B002FF7F5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ParkWhereMVP;
+			packageProductDependencies = (
+				3D4D3BD42946473500482FBB /* ArcGIS */,
+			);
+			productName = ParkWhereMVP;
+			productReference = 3D1B3F202943D54B002FF7F5 /* ParkWhereMVP.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3D1B3F182943D54A002FF7F5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1410;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					3D1B3F1F2943D54B002FF7F5 = {
+						CreatedOnToolsVersion = 14.1;
+					};
+				};
+			};
+			buildConfigurationList = 3D1B3F1B2943D54A002FF7F5 /* Build configuration list for PBXProject "ParkWhereMVP" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3D1B3F172943D54A002FF7F5;
+			packageReferences = (
+				3D4D3BD32946473500482FBB /* XCRemoteSwiftPackageReference "arcgis-runtime-ios" */,
+			);
+			productRefGroup = 3D1B3F212943D54B002FF7F5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3D1B3F1F2943D54B002FF7F5 /* ParkWhereMVP */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3D1B3F1E2943D54B002FF7F5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				25A0E60729EA2CE800E9516F /* filters.json in Resources */,
+				25DDFDB029B5B4E200D2E9CE /* permits.json in Resources */,
+				3D1B3F2C2943D54F002FF7F5 /* Preview Assets.xcassets in Resources */,
+				3DB408B229D20D5F001C0850 /* lots.json in Resources */,
+				25A68B0C29F04141005F45B5 /* special_events.json in Resources */,
+				25A0E5FB29E4727700E9516F /* parsed_lots.json in Resources */,
+				3D1B3F282943D54F002FF7F5 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3D1B3F1C2943D54B002FF7F5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D1B3F262943D54B002FF7F5 /* ContentView.swift in Sources */,
+				25365D6D29DDD0AF00AA666E /* FilterManager.swift in Sources */,
+				3D268E462947E30300EBD246 /* LotType.swift in Sources */,
+				25DBB9F529DAF916002FC11A /* POISearch.swift in Sources */,
+				25A68B0E29F041DD005F45B5 /* SpecialEventType.swift in Sources */,
+				3DF47AC429E46654004FC83D /* LotInfoPopover.swift in Sources */,
+				3D61B66229E5A2BA000E4520 /* NavAppPickerView.swift in Sources */,
+				3D41D25029A3EED0002C0629 /* OccupancyBars.swift in Sources */,
+				255DDE4329B5CF7E00602E4A /* DataModel.swift in Sources */,
+				25A0E5FD29E47BE000E9516F /* FilterView.swift in Sources */,
+				25DDFDB229B5B59600D2E9CE /* AddPermits.swift in Sources */,
+				3D5F357029467D2600F02CFD /* ArcGISMap.swift in Sources */,
+				3DC8E1E12991781F00BC1DFC /* LotRow.swift in Sources */,
+				25DDFDB429B5B76B00D2E9CE /* PermitRow.swift in Sources */,
+				521697F329E67B9E00E1EDFB /* HelpfulLinks.swift in Sources */,
+				25A0E60129E485DD00E9516F /* FilterType.swift in Sources */,
+				3D1B3F3F29451FEA002FF7F5 /* LocationManager.swift in Sources */,
+				5281143829B82B360019E1C0 /* MenuView.swift in Sources */,
+				5281143A29B82C000019E1C0 /* ManagePermitsView.swift in Sources */,
+				3D268E432947C98000EBD246 /* SearchBarView.swift in Sources */,
+				3D8798B329EDC0B80089AB15 /* OccupancyReporting.swift in Sources */,
+				3D1B3F242943D54B002FF7F5 /* ParkWhereMVPApp.swift in Sources */,
+				25DDFDAD29AFB81500D2E9CE /* PermitType.swift in Sources */,
+				3D1B3F362943DF25002FF7F5 /* SlideOverView.swift in Sources */,
+				25A0E60629EA29F000E9516F /* RadialButton.swift in Sources */,
+				3DAEF3E229F6F80B00BFFD1B /* CKHelper.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3D1B3F2D2943D54F002FF7F5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3D2D9680297869E500AB4943 /* Secrets.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3D1B3F2E2943D54F002FF7F5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3D2D9680297869E500AB4943 /* Secrets.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		3D1B3F302943D54F002FF7F5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = ParkWhereMVP/ParkWhereMVP.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEVELOPMENT_ASSET_PATHS = "\"ParkWhereMVP/Preview Content\"";
+				DEVELOPMENT_TEAM = H5TPBK2JN5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ParkWhereMVP/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "ParkWhere A&M";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.navigation";
+				INFOPLIST_KEY_NSLocationUsageDescription = "MVP Location request";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "MVP Location request";
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.the418s.parkwhere;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		3D1B3F312943D54F002FF7F5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = ParkWhereMVP/ParkWhereMVP.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEVELOPMENT_ASSET_PATHS = "\"ParkWhereMVP/Preview Content\"";
+				DEVELOPMENT_TEAM = H5TPBK2JN5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ParkWhereMVP/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "ParkWhere A&M";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.navigation";
+				INFOPLIST_KEY_NSLocationUsageDescription = "MVP Location request";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "MVP Location request";
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = dev.the418s.parkwhere;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3D1B3F1B2943D54A002FF7F5 /* Build configuration list for PBXProject "ParkWhereMVP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D1B3F2D2943D54F002FF7F5 /* Debug */,
+				3D1B3F2E2943D54F002FF7F5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3D1B3F2F2943D54F002FF7F5 /* Build configuration list for PBXNativeTarget "ParkWhereMVP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D1B3F302943D54F002FF7F5 /* Debug */,
+				3D1B3F312943D54F002FF7F5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		3D4D3BD32946473500482FBB /* XCRemoteSwiftPackageReference "arcgis-runtime-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/esri/arcgis-runtime-ios";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 100.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		3D4D3BD42946473500482FBB /* ArcGIS */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3D4D3BD32946473500482FBB /* XCRemoteSwiftPackageReference "arcgis-runtime-ios" */;
+			productName = ArcGIS;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 3D1B3F182943D54A002FF7F5 /* Project object */;
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "id": "000",
+        "type": "None",
+        "lot_overrides": {
+        }
+    },
+    {
+        "id": "001",
+        "type": "Football",
+        "lot_overrides": {
+            "Lot 1000": ["Shared", "Season Pass"],
+            "Lot 100e": ["Rellis"]
+        }
+    },
+    {
+        "id": "002",
+        "type": "Baseball",
+        "lot_overrides": {
+            "Lot 100j": ["Season Pass"]
+        }
+    },
+    {
+        "id": "003",
+        "type": "Basketball",
+        "lot_overrides": {
+            "Lot 100a": ["Season Pass"]
+        }
+    }
+]
